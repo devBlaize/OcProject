@@ -1,0 +1,11 @@
+    1 deux classe de meme nom ne peuvent pas dans le meme espace de nom
+    2 toute classe declarer sous un espace de nom sont considerer comme lui appartenant
+    3 pour instancier une un objet  d'une classe il faut faire :
+                                                                 = new   \le namespace\classe
+    4 on peut importer un espace de nom dans un autre espace de nom pour utiliser ses composant
+        cela grace au mots clé use suivi de se qu'on souhaite importer 
+
+
+                                        
+                                        spl_autoloder_register
+        
